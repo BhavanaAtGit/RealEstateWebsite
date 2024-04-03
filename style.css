@@ -308,7 +308,7 @@ body {
 }
 
 .hero-bg{
-    background-image: url("../images/img1.jpg");
+    background-image: url("images/img1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -643,7 +643,7 @@ body {
 }
 
 .wrapper2{
-    background: url('../images/img4.jpg') fixed;
+    background: url('images/img4.jpg') fixed;
     background-repeat: no-repeat;
     background-size: cover;
 }
